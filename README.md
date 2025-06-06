@@ -20,3 +20,6 @@ EasyOCR과 tkinter 기반의 텍스트 추출 및 번역 프로그램
 - `ocr_gui.py`: 전체 GUI 구성
 - `ocr_translate.py`: 번역 기능
 - `ocr_help.py`: 도움말 UI
+
+  시연 영상
+  [Youtube] https://youtu.be/h28IPaJkot0
