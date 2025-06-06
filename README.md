@@ -8,7 +8,7 @@ EasyOCR과 tkinter 기반의 텍스트 추출 및 번역 프로그램
 - 다크모드 전환 및 히스토리 관리
 
   사용된 기술 스택
-- - Python
+- Python
 - EasyOCR
 - googletrans
 - tkinter
